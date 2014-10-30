@@ -1,5 +1,5 @@
-fetch-demo
-==========
+fetch-browserify-demo
+=====================
 
 To clone, install & build run the following commands:-
 
