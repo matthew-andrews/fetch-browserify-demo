@@ -1,6 +1,0 @@
-{
-  "name": "why does bower require a name, it's so redundant :(",
-  "dependencies": {
-    "fetch": "~0.2.1"
-  }
-}
