@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "browserify": "^6.2.0",
+    "fetch": "https://github.com/github/fetch/archive/master.tar.gz"
+  }
+}
